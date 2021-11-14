@@ -1,0 +1,18 @@
+input{
+    display: block;
+    width: 250px;
+    height: 40px;
+     border: 1px solid #808080;
+    border-radius: 4px;
+    margin: 10px;
+    font-size: 1.5em;
+  }
+  img{
+    height: 250px;
+    width:450px;
+  }
+
+  .parent {
+    max-width: 500px;
+    margin: auto;
+  }
